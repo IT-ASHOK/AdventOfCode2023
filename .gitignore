@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Allow .cs files
+!*.cs
+
+# Allow folder structure
+!*/
+
+# Exclude .gitignore itself
+!.gitignore
